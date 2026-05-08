@@ -1,3 +1,5 @@
 theme: minima
 title: doodoo77 블로그
 description: 쿠버네티스 공부 기록
+timezone: Asia/Seoul
+permalink: /:year/:month/:day/:title/
